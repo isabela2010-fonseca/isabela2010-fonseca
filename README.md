@@ -1,4 +1,10 @@
 ## Hi there 👋
+## 👩🏻‍🎓 I'm an student and i'm working in some projects for a course of technology
+## 👩🏻‍💻💻 I'm learning C and CPP 
+## 😃In the futher I'd like learn python 
+## 🙈I'm foucus in OBI 
+## 🖱📖I lern with Neps Academy 
+
 
 <!--
 **isabela2010-fonseca/isabela2010-fonseca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
