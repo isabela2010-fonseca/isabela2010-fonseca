@@ -9,8 +9,6 @@
 ## 🚀 Linguagens e ferramentas que uso:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
-![html](https://www.w3c.br/noticias/html5-e-html-next/)
-![css](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZAc4BswrDj_q0JcxkRYJ09NDHtv5GEfzOzQ&s)
 
 ## 🌟 Curiosidades sobre mim:
 - Amo resolver problemas com lógica e criatividade 🤓  
