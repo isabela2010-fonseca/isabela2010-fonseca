@@ -30,10 +30,15 @@
 
 ## 📊 Status do GitHub:
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isabela2010-fonseca&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabela2010-fonseca&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-</div>
+![](https://raw.githubusercontent.com/isabela2010-fonseca/isabela2010-fonseca/main/profile-summary-card-output/tokyonight/0-profile-details.svg)
+![](https://raw.githubusercontent.com/isabela2010-fonseca/isabela2010-fonseca/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/isabela2010-fonseca/isabela2010-fonseca/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/isabela2010-fonseca/isabela2010-fonseca/main/profile-summary-card-output/tokyonight/3-stats.svg)
+![](https://raw.githubusercontent.com/isabela2010-fonseca/isabela2010-fonseca/main/profile-summary-card-output/tokyonight/4-productive-time.svg)
+
+
+
+
 
 
 ---
