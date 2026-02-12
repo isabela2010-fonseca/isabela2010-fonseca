@@ -19,7 +19,7 @@
 - **Medalhista de voleibol**
 
 ## 📱 Me encontra por aí:
-[![Instagram](https://img.shields.io/badge/@isafonseca_c-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/isafonseca_c)
+[![Instagram](https://img.shields.io/badge/@isafonseca.c-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/isafonseca.c)
 
 ---
 
