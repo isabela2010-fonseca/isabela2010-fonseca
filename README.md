@@ -1,18 +1,22 @@
 # 👋 Olá, eu sou a Isabela!
 
 🎓 Estudante de **Programação** pelo Instituto Behring  
-💻 Integrante do **Jovem Talento Tech**  
+💻 Integrante do **Behring Academy**  
 📚 Apaixonada por **Línguas e Exatas**  
-🏅 **Multimedalhista** em Olimpíadas de Conhecimento Científicas  
-💙 Linguagem preferida: **C++**
+🏅 **Multimedalhista** em Olimpíadas de Conhecimento Científicas 
 
 ## 🚀 Linguagens e ferramentas que uso:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 ## 🌟 Curiosidades sobre mim:
-- Amo resolver problemas com lógica e criatividade 🤓  
-- **Adoro cachorros!** 🐶💖
+- Amante de esportes  
+- **Medalhista de voleibol**
 
 ## 📱 Me encontra por aí:
 [![Instagram](https://img.shields.io/badge/@isafonseca_c-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/isafonseca_c)
@@ -20,9 +24,6 @@
 ---
 
 ## 🐾 Mascote Oficial do Repositório
-
-> *"Programação com seu cachorrinho por perto é muito melhor!"* 🐕
-
 ![Dog Sticker](https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif)
 
 ---
