@@ -26,18 +26,6 @@
 ## 🐾 Mascote Oficial do Repositório
 ![Dog Sticker](https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif)
 
----
-
-## 📊 Status do GitHub:
-
-![](https://raw.githubusercontent.com/isabela2010-fonseca/isabela2010-fonseca/main/profile-summary-card-output/tokyonight/0-profile-details.svg)
-![](https://raw.githubusercontent.com/isabela2010-fonseca/isabela2010-fonseca/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/isabela2010-fonseca/isabela2010-fonseca/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)
-![](https://raw.githubusercontent.com/isabela2010-fonseca/isabela2010-fonseca/main/profile-summary-card-output/tokyonight/3-stats.svg)
-![](https://raw.githubusercontent.com/isabela2010-fonseca/isabela2010-fonseca/main/profile-summary-card-output/tokyonight/4-productive-time.svg)
-
-
-
 
 
 
