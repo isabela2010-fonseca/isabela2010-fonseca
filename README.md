@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou a Isabela!
+#  Olá, eu sou a Isabela!
 
 🎓 Estudante de **Programação** pelo Instituto Behring  
 💻 Integrante do **Behring Academy**  
